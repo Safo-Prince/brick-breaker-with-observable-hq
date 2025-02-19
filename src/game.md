@@ -1,4 +1,4 @@
-<h1>Gamedev Canvas Workshop - lesson 10: finishing up</h1>
+# Gamedev Canvas Workshop - lesson 10: finishing up
 
  <style>
  *{ padding: 0; margin: 0; } 
